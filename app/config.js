@@ -152,8 +152,8 @@ module.exports = {
 				{
 					title:"Related Sites",
 					links:[
-						{name: "GravityCoin Explorer", url:"http://51.91.156.249:3002/blocks", imgUrl:"/img/logo/logogxx.svg"},
-                        {name: "BitcoinCZ Explorer", url:"http://51.91.156.252:3000/", imgUrl:"/img/logo/logobcz.svg"},
+                        {name: "GravityCoin Explorer", url:"www.specialcoins-gxx-explorer.ovh/", imgUrl:"/img/logo/logogxx.svg"},
+                        {name: "BitcoinCZ Explorer", url:"www.specialcoins-bcz-explorer.ovh/", imgUrl:"/img/logo/logobcz.svg"},
                         {name: "GitHub", url:"https://github.com/SpecialCoins/", imgUrl:"/img/logo/github.svg"},
 					]
 				}
